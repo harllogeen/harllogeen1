@@ -1,0 +1,32 @@
+body {
+    background-color: #EAF6F6;
+}
+
+.pixabay {
+    width: 150px;
+    position: relative;
+    top: 50px;
+}
+
+p {
+    color: gold;
+}
+
+h3 {
+    color: #66BFBF;
+    text-decoration: underline;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 100%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
